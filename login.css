@@ -1,0 +1,109 @@
+body{
+
+    background-color: rgb(35, 25, 39);
+    font-family: 'Rubik', sans-serif;
+    padding: 0%;
+    overflow-x: hidden;
+
+}
+
+.Menu{
+
+    top: 0%;
+    font-size: 20px;
+    color: white;
+    background-image: linear-gradient(to bottom, rgb(0, 0, 0), rgb(88, 87, 86));
+
+}
+
+.botao-menu{
+
+    color: white;
+    text-decoration: none;
+
+}
+
+.login{
+    color: white;
+    background-color: rgb(53, 52, 58);
+    height: 555px;
+    width: 650px;
+    font-size: 21px;
+    padding: auto;
+    padding-left: 25px;
+    padding-top: 20px;
+    display: block;
+    border-radius: 30px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.escrever{
+
+    background: rgb(207, 196, 196);
+    width: 600px;
+    height: 35px;
+    font-family: 'Kanit', sans-serif;
+    font-size: 20px;
+
+}
+   
+.botao{
+
+    color: rgb(0, 0, 0);
+    width: 450px;
+    height: 35px;
+    background: rgb(207, 196, 196);
+    font-size: 20px;
+    text-align: center;
+    margin-left: 70px;
+
+}
+.rodape{
+
+    padding-top: 5px;
+    background-color: rgb(32, 30, 32);
+    padding-left: 150px;
+    padding-right: 150px;
+    margin-top: 20px;
+
+}
+
+.nome-logo{
+
+    color: white;
+    font-family: 'Squada One', cursive;
+    font-size: 40px;
+    margin-top: -65px;
+    margin-left: 95px;
+
+}
+
+.rodape-item{
+
+    font-size: 15px;
+    color: white;
+    text-decoration: none;
+    line-height: 40px;
+
+}
+
+.titulo-rodape{
+
+    font-size: 20px;
+    color: rgb(94, 94, 94);
+    text-decoration: none;
+
+}
+
+.divisoria-rodape{
+
+    margin-bottom: 30px;
+
+}
+
+.imagem-rodape{
+
+    color: white;
+
+}

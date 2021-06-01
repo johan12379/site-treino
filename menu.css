@@ -1,7 +1,9 @@
 body{
 
+    background-color: rgb(35, 25, 39);
     font-family: 'Rubik', sans-serif;
     padding: 0%;
+    overflow-x: hidden;
 
 }
 
@@ -22,7 +24,7 @@ body{
 
 .seçao{
 
-    background-image: linear-gradient(to top, rgb(56, 10, 46), rgb(160, 122, 152),rgb(56, 10, 46));
+    background-color: rgb(35, 25, 39);
     padding-left: 50px;
     padding-right: 50px;
     font-family: 'Squada One', cursive;
@@ -50,16 +52,19 @@ body{
 
 .seçao-1{
 
-    background-image: url(img/background.jpg);
+    background-image: url(img/background-seçao-2.jpg);
     background-size: cover;
+    border-radius: 30px;
+    margin-top: 5px;
 
 }
 
 .seçao-2{
 
-    margin-top: 10px;
-    background-image: linear-gradient(to left, rgb(255, 0, 200), rgb(88, 0, 69));
+    background-image: url(img/background-seçao-1.jpg);
     background-size: cover;
+    border-radius: 30px;
+    margin-top: 5px;
 
 }
 
@@ -88,4 +93,69 @@ body{
 
     background-color: rgb(59, 29, 61);
     color:rgb(255, 255, 255);
+}
+
+.rodape{
+
+    padding-top: 5px;
+    background-color: rgb(32, 30, 32);
+    padding-left: 150px;
+    padding-right: 150px;
+    margin-top: 20px;
+
+}
+
+.nome-logo{
+
+    color: white;
+    font-family: 'Squada One', cursive;
+    font-size: 40px;
+    margin-top: -65px;
+    margin-left: 95px;
+
+}
+
+.rodape-item{
+
+    font-size: 15px;
+    color: white;
+    text-decoration: none;
+    line-height: 40px;
+
+}
+
+.titulo-rodape{
+
+    font-size: 20px;
+    color: rgb(94, 94, 94);
+    text-decoration: none;
+
+}
+
+.divisoria-rodape{
+
+    margin-bottom: 30px;
+
+}
+
+.imagem-rodape{
+
+    color: white;
+
+}
+
+.botao{
+
+    height: 60px;
+    width: 220px;
+    font-size: 30px;
+    margin-top: 40px;
+
+}
+
+.titulo-seçao{
+
+    font-size: 90px;
+    color: rgb(202, 86, 202);
+
 }

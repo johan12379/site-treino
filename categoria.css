@@ -1,0 +1,126 @@
+body{
+
+    background-color: rgb(35, 25, 39);
+    font-family: 'Rubik', sans-serif;
+    padding: 0%;
+    overflow-x: hidden;
+
+}
+
+.Menu{
+
+    top: 0%;
+    font-size: 20px;
+    color: white;
+    background-image: linear-gradient(to bottom, rgb(0, 0, 0), rgb(88, 87, 86));
+
+}
+
+.musicas{
+
+    background-color: rgb(88, 87, 86);
+    color: white;
+    font-family: 'Squada One', cursive;
+
+}
+.seçao{
+
+    margin-top: 20px;
+
+}
+
+.titulo-musica{
+
+    font-size: 40px;
+
+}
+
+.seçao-titulo{
+
+    padding-left: 140px;
+    padding-top: 20px;
+
+}
+
+.titulo{
+
+    font-size: 90px;
+    color: white;
+    font-family: 'Squada One', cursive;
+
+}
+
+.dropdown-menu{
+
+    background-color: rgb(59, 29, 61);
+    color:rgb(255, 255, 255);
+}
+.biblioteca-item{
+
+    font-size: 20px;
+    color: white;
+
+}
+
+.categorias-item{
+
+    font-size: 20px;
+    color: white;
+
+}
+
+.conta-item{
+
+    font-size: 20px;
+    color: white;
+
+}
+
+.rodape{
+
+    padding-top: 5px;
+    background-color: rgb(32, 30, 32);
+    padding-left: 150px;
+    padding-right: 150px;
+    margin-top: 20px;
+
+}
+
+.nome-logo{
+
+    color: white;
+    font-family: 'Squada One', cursive;
+    font-size: 40px;
+    margin-top: -65px;
+    margin-left: 95px;
+
+}
+
+.rodape-item{
+
+    font-size: 15px;
+    color: white;
+    text-decoration: none;
+    line-height: 40px;
+
+}
+
+.titulo-rodape{
+
+    font-size: 20px;
+    color: rgb(94, 94, 94);
+    text-decoration: none;
+
+}
+
+.divisoria-rodape{
+
+    margin-bottom: 30px;
+
+}
+
+.imagem-rodape{
+
+    color: white;
+
+}
