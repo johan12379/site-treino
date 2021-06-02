@@ -124,3 +124,22 @@ body{
     color: white;
 
 }
+
+@media only screen and (max-width: 800px) {
+ 
+    .card-de-musica{
+
+        margin-bottom: 5px;
+        margin-left: 100px;
+
+    }
+
+}
+
+@media only screen and (max-width: 800px) {   
+
+    .pesquisa{
+        visibility: hidden;
+    }
+
+}

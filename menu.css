@@ -150,6 +150,7 @@ body{
     width: 220px;
     font-size: 30px;
     margin-top: 40px;
+    margin-bottom: 10px;
 
 }
 
@@ -157,5 +158,13 @@ body{
 
     font-size: 90px;
     color: rgb(202, 86, 202);
+
+}
+
+@media only screen and (max-width: 800px) {   
+
+    .pesquisa{
+        visibility: hidden;
+    }
 
 }
